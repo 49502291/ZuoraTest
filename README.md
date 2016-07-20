@@ -10,7 +10,7 @@ Given a dataset that represents a user's navigation of a website, find the top N
 While the size of queue is equal to page length, poll out the first item, then add the current path to queue. Then use another 
 map to count the frequency of current path.  
 3. Use a min heap (size = N) to get top N most frequently traversed path. 
-4  Print out results
+4. Print out results
 
 ## Testing
 
